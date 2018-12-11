@@ -1,2 +1,4 @@
 # hello-world
-this is hello-world repository
+
+Hi there,
+i am naveed bangash and i like android.
